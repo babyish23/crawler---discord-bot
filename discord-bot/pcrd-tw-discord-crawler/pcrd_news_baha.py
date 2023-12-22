@@ -8,13 +8,11 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 base_Url = 'https://forum.gamer.com.tw/B.php?bsn=75993'
 current_title = None
 timer_interval = 600
-webhook_links = ['https://discord.com/api/webhooks/1181785238905569311/eIEKMTjK0b54oHGqeFhwR3AeTuYz5NVaB8IHfJ4X1SoaIzee67GiEW40fAVfpgfgAQ9i']
+webhook_links = ['yourwebhooklink']
 
 # test
 # https://discord.com/api/webhooks/1181525794376392706/H-b-y93qsastOUYkwzh4P0A1I1usSSmQDXhbTpzAXzKLinEkiUcCgHHv2AVzK9EDNw-w
 
-# carry
-# https://discord.com/api/webhooks/1181785238905569311/eIEKMTjK0b54oHGqeFhwR3AeTuYz5NVaB8IHfJ4X1SoaIzee67GiEW40fAVfpgfgAQ9i
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36',
