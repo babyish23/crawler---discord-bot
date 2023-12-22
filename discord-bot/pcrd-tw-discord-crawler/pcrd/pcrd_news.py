@@ -9,9 +9,9 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 base_Url = 'https://forum.gamer.com.tw/B.php?bsn=75993'
 current_title = None
 timer_interval = 600
-webhook_links = ['https://discord.com/api/webhooks/1181525794376392706/H-b-y93qsastOUYkwzh4P0A1I1usSSmQDXhbTpzAXzKLinEkiUcCgHHv2AVzK9EDNw-w']
+webhook_links = ['your web hook link']
 
-#https://discord.com/api/webhooks/1181525794376392706/H-b-y93qsastOUYkwzh4P0A1I1usSSmQDXhbTpzAXzKLinEkiUcCgHHv2AVzK9EDNw-w
+
 
 def remove_new_line_symbol(lines):
     removedLines = []
