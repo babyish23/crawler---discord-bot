@@ -8,7 +8,7 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 base_Url = 'https://www.shadow-garden-mog.jp/tw/tw-information/?from=ingame'
 current_title = None
 timer_interval = 600
-webhook_links = ['https://discord.com/api/webhooks/1181785238905569311/eIEKMTjK0b54oHGqeFhwR3AeTuYz5NVaB8IHfJ4X1SoaIzee67GiEW40fAVfpgfgAQ9i']
+webhook_links = ['your webhook link']
 
 def get_mog_news():
     # File Input
